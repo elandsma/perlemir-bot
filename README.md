@@ -1,3 +1,6 @@
+# NOTE: This project lives in a different repo:
+https://github.com/unca-acm/perlemirBot
+
 # PerlemirBot!
 
 This is the bot scripting for the Perlemir cryptocurrency trading utility, built by the UNCA chapter of ACM.
